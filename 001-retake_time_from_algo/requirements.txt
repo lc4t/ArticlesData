@@ -1,0 +1,5 @@
+feedparser
+requests
+sqlalchemy
+cos-python-sdk-v5
+pymysql
